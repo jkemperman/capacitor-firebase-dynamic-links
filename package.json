@@ -18,10 +18,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sencrop/capacitor-firebase-dynamic-links.git"
+    "url": "git+https://github.com/jkemperman/capacitor-firebase-dynamic-links.git"
   },
   "bugs": {
-    "url": "https://github.com/sencrop/capacitor-firebase-dynamic-links/issues"
+    "url": "https://github.com/jkemperman/capacitor-firebase-dynamic-links/issues"
   },
   "keywords": [
     "capacitor",
